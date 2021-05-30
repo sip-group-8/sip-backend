@@ -1,0 +1,1 @@
+mv C:\proyectos\sip\sip_backend\target\sip-v1.war C:\xampp\tomcat\webapps\sip.war
